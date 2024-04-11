@@ -56,14 +56,14 @@ This paper show generally possible to run these experiments and get interesting 
 
 
 **Out of One, Many: Using Language Models to Simulate Human Samples** \
-*Lisa P. Argyle, E. Busby, Nancy Fulda, Joshua Ronald Gubler, Christopher Michael Rytting, David Wingate* \ 
-Political Analysis, 2023. [[Paper](https://www.cambridge.org/core/journals/political-analysis/article/abs/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)]\
+*Lisa P. Argyle, E. Busby, Nancy Fulda, Joshua Ronald Gubler, Christopher Michael Rytting, David Wingate*  \ 
+Political Analysis, 2023. [[Paper](https://www.cambridge.org/core/journals/political-analysis/article/abs/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)] \
 21 Feb 2023\
 First validation on some set of new humans, shows that perceptions of political associations are similar for LLMs and people
 
 **Using GPT for Market Research** \
 *James Brand, Ayelet Israeli, Donald Ngwe* \
-Harvard Business School Working Paper, 2023 [[Paper](https://www.hbs.edu/ris/Publication%20Files/23-062_b8fbedcd-ade4-49d6-8bb7-d216650ff3bd.pdf)]\
+Harvard Business School Working Paper, 2023 [[Paper](https://www.hbs.edu/ris/Publication%20Files/23-062_b8fbedcd-ade4-49d6-8bb7-d216650ff3bd.pdf)] \
 30 Mar 2023 \
 Shows usefulness as an economic tool, derive empirical demand curves that are not perfect in a human way
 
