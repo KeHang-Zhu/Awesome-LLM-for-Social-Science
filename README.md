@@ -56,7 +56,7 @@ This paper show generally possible to run these experiments and get interesting 
 
 
 **Out of One, Many: Using Language Models to Simulate Human Samples** \
-*Lisa P. Argyle, E. Busby, Nancy Fulda, Joshua Ronald Gubler, Christopher Michael Rytting, and David Wingate*\ 
+*Lisa P. Argyle, E. Busby, Nancy Fulda, Joshua Ronald Gubler, Christopher Michael Rytting, David Wingate* \ 
 Political Analysis, 2023. [[Paper](https://www.cambridge.org/core/journals/political-analysis/article/abs/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)]\
 21 Feb 2023\
 First validation on some set of new humans, shows that perceptions of political associations are similar for LLMs and people
