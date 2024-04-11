@@ -69,12 +69,12 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2309.01431)][[Github](https://github.
 
 **Large language models as simulated economic agents: What can we learn from homo silicus?** \
 *John Horton* \
-nber.org 2023. [[Paper](https://www.nber.org/papers/w31122)\
+nber.org 2023. [[Paper](https://www.nber.org/papers/w31122)]\
 April 2023
 
 **Using large language models to simulate multiple humans and replicate human subject studies** \
 **Gati V Aher, Rosa I. Arriaga, Adam Tauman Kalai* \
-PMLR, 2023. [[Paper](https://arxiv.org/abs/2208.10264)\
+PMLR, 2023. [[Paper](https://arxiv.org/abs/2208.10264)]\
 9 Jul 2023
 
 Both papers show generally possible to run these experiments and get interesting variation in the answers
@@ -82,28 +82,28 @@ Both papers show generally possible to run these experiments and get interesting
 
 **Out of One, Many: Using Language Models to Simulate Human Samples** \
 *Lisa P. Argyle, E. Busby, Nancy Fulda, Joshua Ronald Gubler, Christopher Michael Rytting, and David Wingate*\ 
-Political Analysis, 2023. [Paper](https://www.cambridge.org/core/journals/political-analysis/article/abs/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)\
+Political Analysis, 2023. [[Paper](https://www.cambridge.org/core/journals/political-analysis/article/abs/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)]\
 21 Feb 2023
 
 First validation on some set of new humans, shows that perceptions of political associations are similar for LLMs and people
 
 **Using GPT for Market Research** \
 *James Brand, Ayelet Israeli, Donald Ngwe* \
-Harvard Business School Working Paper, 2023 [Paper](https://www.hbs.edu/ris/Publication%20Files/23-062_b8fbedcd-ade4-49d6-8bb7-d216650ff3bd.pdf)\
+Harvard Business School Working Paper, 2023 [[Paper](https://www.hbs.edu/ris/Publication%20Files/23-062_b8fbedcd-ade4-49d6-8bb7-d216650ff3bd.pdf)]\
 30 Mar 2023
 
 Shows usefulness as an economic tool, derive empirical demand curves that are not perfect in a human way
 
 **CogBench: a large language model walks into a psychology lab** \
 *Julian Coda-Forno, Marcel Binz, Jane X. Wang, Eric Schulz* \
-arxiv, 2024. [Paper](https://arxiv.org/abs/2402.18225)
+arxiv, 2024. [[Paper](https://arxiv.org/abs/2402.18225)]\
 28 Feb 2024
 
 Fine-tune an LLM on specific decisions from two experiments and accurately predict the results out of sample on a third experiment
 
 **Frontiers: Determining the Validity of Large Language Models for Automated Perceptual Analysis** \
 *Peiyao Li, Noah Castelo, Zsolt Katona , Miklos Sarvary* \
-Market Science, 2024. [Paper](https://pubsonline.informs.org/doi/10.1287/mksc.2023.0454)\
+Market Science, 2024. [[Paper](https://pubsonline.informs.org/doi/10.1287/mksc.2023.0454)]\
 25 Jan 2024
 Li et al., 2024; 
 elicit preference over a variety car brands, find that out of sample human preferences are matched very accurately
