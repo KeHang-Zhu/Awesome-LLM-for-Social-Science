@@ -5,7 +5,7 @@
 
 
 
-This repo aims to track research works the emergent displine of using LLM agent as human subject in social science
+This repo aims to track research works in the emergent displine of using LLM agent as human subject in social science
 
 We strongly encourage the researchers that want to promote their fantastic work to the LLM social science to make pull request to update their paper's information!
 
