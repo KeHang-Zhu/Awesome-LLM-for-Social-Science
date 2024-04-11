@@ -14,10 +14,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ## Contents
 
-- [Resources](#resources)
-  - [Workshops and Tutorials](#workshops-and-tutorials)
 - [Papers](#papers)
-  - [Survey and Benchmark](#survey-and-benchmark)
+  - [Experiment](#survey-and-benchmark)
   - [Retrieval-enhanced LLMs](#retrieval-enhanced-llms)
   - [RAG Instruction Tuning](#rag-instruction-tuning)
   - [RAG In-Context Learning](#rag-in-context-learning)
