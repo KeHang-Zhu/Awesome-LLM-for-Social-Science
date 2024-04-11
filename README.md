@@ -23,7 +23,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 # Papers 
 
-## Experiment(#experiment)
+## Experiment
 
 **Large language models as simulated economic agents: What can we learn from homo silicus?** \
 *John Horton* \
