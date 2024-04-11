@@ -15,17 +15,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ## Contents
 
 - [Papers](#papers)
-  - [Experiment](#survey-and-benchmark)
-  - [Retrieval-enhanced LLMs](#retrieval-enhanced-llms)
-  - [RAG Instruction Tuning](#rag-instruction-tuning)
-  - [RAG In-Context Learning](#rag-in-context-learning)
-  - [RAG Embeddings](#rag-embeddings)
-  - [RAG Simulators](#rag-simulators)
-  - [RAG Search](#rag-search)
-  - [RAG Long-text and Memory](#rag-long-text-and-memory)
-  - [RAG Evaluation](#rag-evaluation)
-  - [RAG Optimization](#rag-optimization)
-  - [RAG Application](#rag-application)
+  - [Experiment with LLM](#experiment)
 
 
 
@@ -33,7 +23,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 # Papers 
 
-## Experiment
+## Experiment(#experiment)
 
 **Large language models as simulated economic agents: What can we learn from homo silicus?** \
 *John Horton* \
