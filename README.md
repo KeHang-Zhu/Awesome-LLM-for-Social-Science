@@ -33,8 +33,8 @@ TL;DR: This paper show generally possible to run these experiments and get inter
 
 **Automated Social Science: A Structural Causal Model-Based Approach** \
 *Benjamin S. Manning, Kehang Zhu, John Horton* \
-Working paper. [[Paper](https://kehang-zhu.github.io/files/rs.pdf)] \
-25 March 2023\
+Working paper. [[Paper](https://kehang-zhu.github.io/files/rs.pdf)]\
+25 March 2023 \
 
 **Using large language models to simulate multiple humans and replicate human subject studies** \
 *Gati V Aher, Rosa I. Arriaga, Adam Tauman Kalai* \
@@ -46,7 +46,7 @@ TL;DR: This paper show generally possible to run these experiments and get inter
 **Out of One, Many: Using Language Models to Simulate Human Samples** \
 *Lisa P. Argyle, E. Busby, Nancy Fulda, Joshua Ronald Gubler, Christopher Michael Rytting, David Wingate*  \ 
 Political Analysis, 2023. [[Paper](https://www.cambridge.org/core/journals/political-analysis/article/abs/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)] \
-21 Feb 2023\
+21 Feb 2023 \
 TL;DR: First validation on some set of new humans, shows that perceptions of political associations are similar for LLMs and people
 
 **Using GPT for Market Research** \
@@ -58,7 +58,7 @@ TL;DR: Shows usefulness as an economic tool, derive empirical demand curves that
 **CogBench: a large language model walks into a psychology lab** \
 *Julian Coda-Forno, Marcel Binz, Jane X. Wang, Eric Schulz* \
 arxiv, 2024. [[Paper](https://arxiv.org/abs/2402.18225)]\
-28 Feb 2024\
+28 Feb 2024 \
 TL;DR: Fine-tune an LLM on specific decisions from two experiments and accurately predict the results out of sample on a third experiment
 
 **Frontiers: Determining the Validity of Large Language Models for Automated Perceptual Analysis** \
@@ -67,13 +67,4 @@ Market Science, 2024. [[Paper](https://pubsonline.informs.org/doi/10.1287/mksc.2
 25 Jan 2024 \
 TL;DR: Elicit preference over a variety car brands, find that out of sample human preferences are matched very accurately
 
-** 
-*Burns et al, *\
-2023; 
-
-TL;DR: LLMs encode latent social information in their networks, authors discover a subspace that is matched with things being “true” or “false” 
-
-Gurnee and Tegmark, 
-2023; 
-TL;DR: LLMs have some sort of world model of time and space in their layers
 
