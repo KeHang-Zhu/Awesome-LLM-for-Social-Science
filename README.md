@@ -16,6 +16,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ## Contents
 
 - [Papers](#papers)
+  - [LLM as scientist]
+  - [LLM as subject]
   - [Experiment with LLM](#experiment)
 
 
