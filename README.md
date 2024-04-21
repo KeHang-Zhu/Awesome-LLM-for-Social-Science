@@ -1,4 +1,4 @@
-# LLM-for-Social-Science
+# LLM-for-Social-Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 \
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
