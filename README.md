@@ -1,4 +1,4 @@
-# LLM-for-Social-Science 
+# Awesome-LLM-for-Social-Science 
 
 \
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
