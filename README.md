@@ -10,6 +10,9 @@ This repo aims to track research works in the emergent displine of using LLM age
 
 We strongly encourage the researchers that want to promote their fantastic work to the LLM social science to make pull request to update their paper's information!
 
+:satisfied: Please check out the recent paper for LLM-powered Social Science: [Automated Social Science: Language Models as Scientist and Subjects](https://arxiv.org/abs/2404.11794)
+
+To catch up with the latest research progress, this repository will be actively maintained as well as our released survey paper.
 
 --- 
 
