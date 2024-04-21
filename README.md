@@ -19,8 +19,8 @@ To catch up with the latest research progress, this repository will be actively 
 ## Contents
 
 - [Papers](#papers)
-  - [LLM as scientist]
-  - [LLM as subject]
+  - [LLM as scientist](#experiment)
+  - [LLM as subject](#experiment)
   - [Experiment with LLM](#experiment)
 
 
