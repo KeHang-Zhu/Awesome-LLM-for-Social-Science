@@ -29,48 +29,33 @@ To catch up with the latest research progress, this repository will be actively 
 
 # Papers 
 
-## Experiment
+<b>1.1.1 User- and Item-level Feature Augmentation</b>
 
-**Large language models as simulated economic agents: What can we learn from homo silicus?** \
-*John Horton* \
-nber.org 2023. [[Paper](https://www.nber.org/papers/w31122)]\
-April 2023\
-TL;DR: This paper show generally possible to run these experiments and get interesting variation in the answers
-
-**Automated Social Science: A Structural Causal Model-Based Approach** \
-*Benjamin S. Manning, Kehang Zhu, John Horton* \
-Working paper. [[Paper](https://kehang-zhu.github.io/files/rs.pdf)]\
-25 March 2023 \
-
-**Using large language models to simulate multiple humans and replicate human subject studies** \
-*Gati V Aher, Rosa I. Arriaga, Adam Tauman Kalai* \
-PMLR, 2023. [[Paper](https://arxiv.org/abs/2208.10264)]\
-9 Jul 2023\
-TL;DR: This paper show generally possible to run these experiments and get interesting variation in the answers
+| **Name** | **Paper** | **LLM (Agent)** | **Category** | **Relicated experiments** |**Publication** | **Link** |
+|:---:|:---|:---:|:---:|:---:|:---:|:---:|
+|Automated Social Science|Automated Social Science: Language Models as Scientist and Subjects | GPT-4 | Economic and Sociology | Auction, Bargain, Job interview| Arxiv 2024| [[Link]](https://arxiv.org/abs/2404.11794) |
+|Homo silicus| Large language models as simulated economic agents: What can we learn from homo silicus? | GPT-3 | Economic and Psychology| Status Quo Bias| Arxiv 2023| [[Link]](https://www.nber.org/papers/w31122) |
+|  Interactive Simulacra | Generative Agents: Interactive Simulacra of Human Behavior  | gpt3.5-turbo | Sociology | \ |UIST 23|[[Link]](https://arxiv.org/pdf/2304.03442.pdf) |
+|  LLM Implicit bias | Measuring Implicit Bias in Explicitly Unbiased Large Language Models | GPT3.5/GPT-4/ opensource| Psychology | Implicit bias |ArXiv 23|[[Link]](https://arxiv.org/pdf/2402.04105.pdf) |
+| Out of One, Many | Out of One, Many: Using Language Models to Simulate Human Samples| GPT3.5 | Politics | \ |Political Analysis 23|[[Link]](https://www.cambridge.org/core/journals/political-analysis/article/abs/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49) |
+| GPT4Market | Using GPT for Market Research| GPT3.5 | Marketing | demand curves |Harvard Business School Working Paper 23|[[Link]](https://www.hbs.edu/ris/Publication%20Files/23-062_b8fbedcd-ade4-49d6-8bb7-d216650ff3bd.pdf) |
+| \ |Using large language models to simulate multiple humans and replicate human subject studies| GPT3.5 |  Sociology | \ |PMLR 23|[[Link]](https://arxiv.org/abs/2208.10264) |
+| Frontiers |Frontiers: Determining the Validity of Large Language Models for Automated Perceptual Analysis| GPT3.5 |  Marketing | Car brands preference |Market Science 24|[[Link]](https://pubsonline.informs.org/doi/10.1287/mksc.2023.0454) |
+| CogBench |CogBench: a large language model walks into a psychology lab| Fine-tune GPT |  Marketing | Car brands preference |ArXiv 24|[[Link]](https://arxiv.org/abs/2402.18225) |
 
 
-**Out of One, Many: Using Language Models to Simulate Human Samples** \
-*Lisa P. Argyle, E. Busby, Nancy Fulda, Joshua Ronald Gubler, Christopher Michael Rytting, David Wingate*  \ 
-Political Analysis, 2023. [[Paper](https://www.cambridge.org/core/journals/political-analysis/article/abs/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)] \
-21 Feb 2023 \
-TL;DR: First validation on some set of new humans, shows that perceptions of political associations are similar for LLMs and people
 
-**Using GPT for Market Research** \
-*James Brand, Ayelet Israeli, Donald Ngwe* \
-Harvard Business School Working Paper, 2023 [[Paper](https://www.hbs.edu/ris/Publication%20Files/23-062_b8fbedcd-ade4-49d6-8bb7-d216650ff3bd.pdf)] \
-30 Mar 2023 \
-TL;DR: Shows usefulness as an economic tool, derive empirical demand curves that are not perfect in a human way
 
-**CogBench: a large language model walks into a psychology lab** \
-*Julian Coda-Forno, Marcel Binz, Jane X. Wang, Eric Schulz* \
-arxiv, 2024. [[Paper](https://arxiv.org/abs/2402.18225)]\
-28 Feb 2024 \
-TL;DR: Fine-tune an LLM on specific decisions from two experiments and accurately predict the results out of sample on a third experiment
+Recent work studies the possibility of using LLMs to simulate and analyze human behaviors (Ziems et al., 2023; Chiang & Lee, 2023; Aher et al., 2023; Sejnowski, 2023; Horton, 2023; Argyle et al., 2023; Korinek, 2023; Williams et al., 2023).
 
-**Frontiers: Determining the Validity of Large Language Models for Automated Perceptual Analysis** \
-*Peiyao Li, Noah Castelo, Zsolt Katona , Miklos Sarvary* \
-Market Science, 2024. [[Paper](https://pubsonline.informs.org/doi/10.1287/mksc.2023.0454)]\
-25 Jan 2024 \
-TL;DR: Elicit preference over a variety car brands, find that out of sample human preferences are matched very accurately
+
+
+
+
+
+
+
+
+
 
 
