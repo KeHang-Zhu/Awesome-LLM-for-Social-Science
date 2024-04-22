@@ -32,7 +32,7 @@ To catch up with the latest research progress, this repository will be actively 
 <b>1. Experiment with LLM</b>
 
 | **Name** | **Paper** | **LLM (Agent)** | **Category** | **Relicated experiments** |**Publication** | **Link** |
-|:---:|:---|:---:|:---:|:---:|:---:|:---:|
+|:---:|:----|:---:|:---:|:---:|:---:|:---:|
 |Automated Social Science|Automated Social Science: Language Models as Scientist and Subjects | GPT-4 | Economic and Sociology | Auction, Bargain, Job interview| Arxiv 2024| [[Link]](https://arxiv.org/abs/2404.11794) |
 |Homo silicus| Large language models as simulated economic agents: What can we learn from homo silicus? | GPT-3 | Economic and Psychology| Status Quo Bias| Arxiv 2023| [[Link]](https://www.nber.org/papers/w31122) |
 |  Interactive Simulacra | Generative Agents: Interactive Simulacra of Human Behavior  | gpt3.5-turbo | Sociology | \ |UIST 23|[[Link]](https://arxiv.org/pdf/2304.03442.pdf) |
