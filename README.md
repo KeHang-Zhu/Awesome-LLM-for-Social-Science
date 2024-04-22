@@ -41,7 +41,7 @@ To catch up with the latest research progress, this repository will be actively 
 | GPT4Market | Using GPT for Market Research| GPT3.5 | Marketing | demand curves |Harvard Business School Working Paper 23|[[Link]](https://www.hbs.edu/ris/Publication%20Files/23-062_b8fbedcd-ade4-49d6-8bb7-d216650ff3bd.pdf) |
 | \ |Using large language models to simulate multiple humans and replicate human subject studies| GPT3.5 |  Sociology | \ |PMLR 23|[[Link]](https://arxiv.org/abs/2208.10264) |
 | Frontiers |Frontiers: Determining the Validity of Large Language Models for Automated Perceptual Analysis| GPT3.5 |  Marketing | Car brands preference |Market Science 24|[[Link]](https://pubsonline.informs.org/doi/10.1287/mksc.2023.0454) |
-| CogBench |CogBench: a large language model walks into a psychology lab| Fine-tune GPT |  Marketing | Car brands preference |ArXiv 24|[[Link]](https://arxiv.org/abs/2402.18225) |
+| CogBench |CogBench: a large language model walks into a psychology lab| Fine-tune GPT |  Psychology | 7 classical Psychological experiments |ArXiv 24|[[Link]](https://arxiv.org/abs/2402.18225) |
 
 
 
