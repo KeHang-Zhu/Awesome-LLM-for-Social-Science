@@ -29,7 +29,7 @@ To catch up with the latest research progress, this repository will be actively 
 
 # Papers 
 
-<b>1.1.1 User- and Item-level Feature Augmentation</b>
+<b>1. Experiment with LLM</b>
 
 | **Name** | **Paper** | **LLM (Agent)** | **Category** | **Relicated experiments** |**Publication** | **Link** |
 |:---:|:---|:---:|:---:|:---:|:---:|:---:|
