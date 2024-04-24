@@ -19,9 +19,8 @@ To catch up with the latest research progress, this repository will be actively 
 ## Contents
 
 - [Papers](#papers)
-  - [LLM as scientist](#experiment)
-  - [LLM as subject](#experiment)
-  - [Experiment with LLM](#experiment)
+  - [LLMs as subjects](#experiment)
+  - [Objections to LLMs as subjects]
 
 
 
@@ -29,7 +28,7 @@ To catch up with the latest research progress, this repository will be actively 
 
 # Papers 
 
-<b>1. Experiment with LLM</b>
+<b>1. LLMs as subjects</b>
 
 | **Name** | **Paper** | **LLM (Agent)** | **Category** | **Relicated experiments** |**Publication** | **Link** |
 |:---:|:----|:---:|:---:|:---:|:---:|:---:|
@@ -43,6 +42,14 @@ To catch up with the latest research progress, this repository will be actively 
 | Frontiers |Frontiers: Determining the Validity of Large Language Models for Automated Perceptual Analysis| GPT3.5 |  Marketing | Car brands preference |Market Science 24|[[Link]](https://pubsonline.informs.org/doi/10.1287/mksc.2023.0454) |
 | CogBench |CogBench: a large language model walks into a psychology lab| Fine-tune GPT |  Psychology | 7 classical Psychological experiments |ArXiv 24|[[Link]](https://arxiv.org/abs/2402.18225) |
 | LLM Subrational Behavior |LM-driven Imitation of Subrational Behavior : Illusion or Reality?| GPT4 | Psychology | \ |ArXiv 24|[[Link]](https://arxiv.org/pdf/2402.18225.pdf) |
+
+
+<b>3. Objections to LLMs as subjects</b>
+
+| **Name** | **Paper** | **LLM (Agent)** | **Category** | **Relicated experiments** |**Publication** | **Link** |
+|:---:|:----|:---:|:---:|:---:|:---:|:---:|
+|\|Large language models cannot replace human participants
+because they cannot portray identity groups| 4 LLMs | Sociology | Minority groups| Arxiv 2024| [[Link]](https://arxiv.org/pdf/2402.01908.pdf) |
 
 
 
