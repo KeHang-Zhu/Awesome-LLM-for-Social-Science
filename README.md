@@ -20,7 +20,7 @@ To catch up with the latest research progress, this repository will be actively 
 
 - [Papers](#papers)
   - [LLMs as subjects](#experiment)
-  - [Objections to LLMs as subjects]
+  - [Objections to LLMs as subjects](#experiment)
 
 
 
@@ -44,17 +44,16 @@ To catch up with the latest research progress, this repository will be actively 
 | LLM Subrational Behavior |LM-driven Imitation of Subrational Behavior : Illusion or Reality?| GPT4 | Psychology | \ |ArXiv 24|[[Link]](https://arxiv.org/pdf/2402.18225.pdf) |
 
 
-<b>3. Objections to LLMs as subjects</b>
+<b>2. Objections to LLMs as subjects</b>
 
 | **Name** | **Paper** | **LLM (Agent)** | **Category** | **Relicated experiments** |**Publication** | **Link** |
 |:---:|:----|:---:|:---:|:---:|:---:|:---:|
-|\|Large language models cannot replace human participants
-because they cannot portray identity groups| 4 LLMs | Sociology | Minority groups| Arxiv 2024| [[Link]](https://arxiv.org/pdf/2402.01908.pdf) |
+|\|Large language models cannot replace human participants because they cannot portray identity groups| 4 LLMs | Sociology | Minority groups| Arxiv 2024| [[Link]](https://arxiv.org/pdf/2402.01908.pdf) |
 
 
 
 
-
+<b>2. To be categorized</b>
 
 Recent work studies the possibility of using LLMs to simulate and analyze human behaviors (Ziems et al., 2023; Chiang & Lee, 2023; Aher et al., 2023; Sejnowski, 2023; Horton, 2023; Argyle et al., 2023; Korinek, 2023; Williams et al., 2023).
 
