@@ -48,7 +48,7 @@ To catch up with the latest research progress, this repository will be actively 
 
 | **Name** | **Paper** | **LLM (Agent)** | **Category** | **Relicated experiments** |**Publication** | **Link** |
 |:---:|:----|:---:|:---:|:---:|:---:|:---:|
-|\|Large language models cannot replace human participants because they cannot portray identity groups| 4 LLMs | Sociology | Minority groups| Arxiv 2024| [[Link]](https://arxiv.org/pdf/2402.01908.pdf) |
+| \ |Large language models cannot replace human participants because they cannot portray identity groups| 4 LLMs | Sociology | Minority groups| Arxiv 2024| [[Link]](https://arxiv.org/pdf/2402.01908.pdf) |
 
 
 
