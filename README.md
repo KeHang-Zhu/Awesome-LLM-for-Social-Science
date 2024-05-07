@@ -31,7 +31,7 @@ To catch up with the latest research progress, this repository will be actively 
 <b>Perspectives / Methods</b>
 
 | **Paper**| **Author(s)**  | **Model** | **Domains** | **Tasks** |**Publication** | **Link** |
-|:---:|:----|:---:|:---:|:---:|:---:|:---:|
+|:--------:|:-----:|:---:|:---:|:---:|:---:|:---:|
 Automated Social Science: Language Models as Scientist and Subjects |BS Manning et.al.| GPT-4 | Economics,Sociology | Sequential decision making| Arxiv 2024| [[Link]](https://arxiv.org/abs/2404.11794) |
 | Large language models as simulated economic agents: What can we learn from homo silicus? |JJ Horton| GPT-3 | Economics,Psychology| Survey subjects | Arxiv 2023| [[Link]](https://www.nber.org/papers/w31122) |
 | Using large language models in psychology |D Demszky et.al.| General LM | Psychology|subjects | Nature Reviews Psychology 2023| [[Link]](https://www.nature.com/articles/s44159-023-00241-5.epdf) |
@@ -49,7 +49,7 @@ Automated Social Science: Language Models as Scientist and Subjects |BS Manning 
 <b>2. Objections to LLMs as subjects</b>
 
 | **Paper** | **Author(s)**  | **Model** | **Domains** | **Tasks** |**Publication** | **Link** |
-|:---:|:----|:---:|:---:|:---:|:---:|:---:|
+|:--------:|:-----:|:---:|:---:|:---:|:---:|:---:|
 |Large language models cannot replace human participants because they cannot portray identity groups|A Wang et.al.| 4 LLMs | Sociology | Minority groups| Arxiv 2024| [[Link]](https://arxiv.org/pdf/2402.01908.pdf) |
 
 
