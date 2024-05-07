@@ -55,14 +55,6 @@ Automated Social Science: Language Models as Scientist and Subjects |BS Manning 
 
 
 
-<b>2. To be categorized</b>
-
-Recent work studies the possibility of using LLMs to simulate and analyze human behaviors (Ziems et al., 2023; Chiang & Lee, 2023; Aher et al., 2023; Sejnowski, 2023; Horton, 2023; Argyle et al., 2023; Korinek, 2023; Williams et al., 2023).
-
-
-
-
-
 
 
 
