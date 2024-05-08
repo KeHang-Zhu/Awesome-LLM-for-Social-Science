@@ -17,7 +17,7 @@ To catch up with the latest research progress, this repository will be actively 
 ## Contents
 
 - [Papers](#papers)
-  - [Perspectives / Methods]()
+  - [Perspectives / Methods](#perspectives-methods)
   - [Reviews]()
   - [Application]()
   - [Critical Perspectives]()
@@ -69,7 +69,7 @@ Simmons, G., & Savinov, V. (2024). Assessing Generalization for Subpopulation Re
 
 # Tables 
 
-<b>Perspectives / Methods</b>
+## LLMs as proxies for humans
 
 | **Paper**| **Author(s)**  | **Model** | **Domains** | **Tasks** |**Publication** | **Link** |
 |:--------:|:-----:|:---:|:---:|:---:|:---:|:---:|
@@ -86,7 +86,7 @@ Automated Social Science: Language Models as Scientist and Subjects |BS Manning 
 |LM-driven Imitation of Subrational Behavior : Illusion or Reality?|A Coletta et.al.| GPT4 | Psychology | \ |ArXiv 24|[[Link]](https://arxiv.org/pdf/2402.18225.pdf) |
 
 
-<b>2. Objections to LLMs as subjects</b>
+## Objections to LLMs as subjects
 
 | **Paper** | **Author(s)**  | **Model** | **Domains** | **Tasks** |**Publication** | **Link** |
 |:--------:|:-----:|:---:|:---:|:---:|:---:|:---:|
