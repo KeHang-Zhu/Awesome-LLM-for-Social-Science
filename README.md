@@ -6,7 +6,7 @@
 
 
 
-This repo aims to track research works in the emergent displine of using LLMs in social science
+This repo aims to track research works in the emergent displine of using LLMs in social science. In perticular, we listed the recent perspective of using LLM as a proxy for human subjects. The related researches and their experiment domains are summarized as a table below.
 
 We strongly encourage the researchers that want to promote their fantastic work to the LLM social science to make pull request to update their paper's information!
 
