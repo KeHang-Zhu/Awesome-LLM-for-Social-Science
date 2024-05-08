@@ -6,11 +6,9 @@
 
 
 
-This repo aims to track research works in the emergent displine of using LLM agent as human subject in social science
+This repo aims to track research works in the emergent displine of using LLMs in social science
 
 We strongly encourage the researchers that want to promote their fantastic work to the LLM social science to make pull request to update their paper's information!
-
-:satisfied: Please check out the recent paper for LLM-powered Social Science: [Automated Social Science: Language Models as Scientist and Subjects](https://arxiv.org/abs/2404.11794)
 
 To catch up with the latest research progress, this repository will be actively maintained as well as our released survey paper.
 
@@ -19,14 +17,47 @@ To catch up with the latest research progress, this repository will be actively 
 ## Contents
 
 - [Papers](#papers)
-  - [LLMs as subjects](#experiment)
-  - [Objections to LLMs as subjects](#experiment)
-
+  - [Perspectives / Methods]()
+  - [Reviews]()
+  - [Application]()
+  - [Critical Perspectives]()
+  
+- [Tables](#tables)
+  - [LLMs as subjects](#LLM-as-subjects)
+  - [Objections to LLMs as subjects](#objection)
 
 
 --- 
 
 # Papers 
+
+Perspectives / Methods
+Horton, J. J. (2023). Large language models as simulated economic agents: What can we learn from homo silicus? (No. w31122). National Bureau of Economic Research. [Link to PDF]
+Manning, B. S., Zhu, K., & Horton, J. J. (2024). Automated Social Science: Language Models as Scientist and Subjects (No. w32381). National Bureau of Economic Research. [Link to PDF]
+Demszky, D., Yang, D., Yeager, D. S., Bryan, C. J., Clapper, M., Chandhok, S., ... & Pennebaker, J. W. (2023). Using large language models in psychology. Nature Reviews Psychology, 2(11), 688-701. [Link to PDF]
+Reviews
+Simmons, G., & Hare, C. (2023). Large language models as subpopulation representative models: A review. arXiv preprint arXiv:2310.17888. [Link to PDF]
+Demszky, D., Yang, D., Yeager, D. S., Bryan, C. J., Clapper, M., Chandhok, S., ... & Pennebaker, J. W. (2023). Using large language models in psychology. Nature Reviews Psychology, 2(11), 688-701. [Link to PDF]
+Applications
+Human behavior
+Sreedhar, K., & Chilton, L. (2024). Simulating Human Strategic Behavior: Comparing Single and Multi-agent LLMs. arXiv preprint arXiv:2402.08189 [Link to PDF]
+Survey analysis
+Mellon, J., Bailey, J., Scott, R., Breckwoldt, J., Miori, M., & Schmedeman, P. (2024). Do AIs know what the most important issue is? Using language models to code open-text social survey responses at scale. Research & Politics, 11(1), 20531680241231468. [Link to PDF]
+Sun, S., Lee, E., Nan, D., Zhao, X., Lee, W., Jansen, B. J., & Kim, J. H. (2024). Random Silicon Sampling: Simulating Human Sub-Population Opinion Using a Large Language Model Based on Group-Level Demographic Information. arXiv preprint arXiv:2402.18144. [Link to PDF]
+Amirova, A., Fteropoulli, T., Ahmed, N., Cowie, M. R., & Leibo, J. Z. (2024). Framework-based qualitative analysis of free responses of Large Language Models: Algorithmic fidelity. Plos one, 19(3), e0300024. [Link to PDF]
+Kim, J., & Lee, B. (2023). Ai-augmented surveys: Leveraging large language models for opinion prediction in nationally representative surveys. arXiv preprint arXiv:2305.09620. [Link to PDF]
+Kozlowski, A. C., Kwon, H., & Evans, J. A. In Silico Sociology: Forecasting COVID-19 Polarization with Large Language Models. [Link to PDF]
+Simmons, G., & Savinov, V. (2024). Assessing Generalization for Subpopulation Representative Modeling via In-Context Learning. arXiv preprint arXiv:2402.07368. [Link to PDF]
+Construct Evaluation 
+Hommel, B. E., & Arslan, R. C. (2024). Language models accurately infer correlations between psychological items and scales from text alone. [Link to PDF]
+Critical Perspectives
+Boelaert, J., Coavoux, S., Ollion, É., Petev, I., & Präg, P. (2024). Machine Bias Generative Large Language Models Have a Worldview of Their Own. [Link to PDF]
+Messeri, L., & Crockett, M. J. (2024). Artificial intelligence and illusions of understanding in scientific research. Nature, 627(8002), 49-58. [Link to PDF]
+Wang, A., Morgenstern, J., & Dickerson, J. P. (2024). Large language models cannot replace human participants because they cannot portray identity groups. arXiv preprint arXiv:2402.01908. [Link to PDF]
+Santurkar, S., Durmus, E., Ladhak, F., Lee, C., Liang, P., & Hashimoto, T. (2023, July). Whose opinions do language models reflect?. In International Conference on Machine Learning (pp. 29971-30004). PMLR. [Link to PDF]
+Bisbee, J., Clinton, J., Dorff, C., Kenkel, B., & Larson, J. (2023). Synthetic replacements for human survey data? the perils of large language models. SocArXiv. May, 4. [Link to PDF]
+
+# Tables 
 
 <b>Perspectives / Methods</b>
 
@@ -35,7 +66,6 @@ To catch up with the latest research progress, this repository will be actively 
 Automated Social Science: Language Models as Scientist and Subjects |BS Manning et.al.| GPT-4 | Economics,Sociology | Sequential decision making| Arxiv 2024| [[Link]](https://arxiv.org/abs/2404.11794) |
 | Large language models as simulated economic agents: What can we learn from homo silicus? |JJ Horton| GPT-3 | Economics,Psychology| Survey subjects | Arxiv 2023| [[Link]](https://www.nber.org/papers/w31122) |
 | Using large language models in psychology |D Demszky et.al.| General LM | Psychology|subjects | Nature Reviews Psychology 2023| [[Link]](https://www.nature.com/articles/s44159-023-00241-5.epdf) |
-|  Simulating Human Strategic Behavior: Comparing Single and Multi-agent LLMs  |K Sreedhar et.al| General LM | Population| subpopulation representative| ArXiv 2024| [[Link]](https://arxiv.org/pdf/2402.08189.pdf) |
 | Generative Agents: Interactive Simulacra of Human Behavior | JS Park et.al. | gpt3.5-turbo | Sociology | \ |UIST 23|[[Link]](https://arxiv.org/pdf/2304.03442.pdf) |
 | Measuring Implicit Bias in Explicitly Unbiased Large Language Models |X Bai et.al.| GPT3.5/GPT-4/ opensource| Psychology | Implicit bias |ArXiv 23|[[Link]](https://arxiv.org/pdf/2402.04105.pdf) |
 | Out of One, Many: Using Language Models to Simulate Human Samples|LP Argyle et.al.| GPT3.5 | Politics | \ |Political Analysis 23|[[Link]](https://www.cambridge.org/core/journals/political-analysis/article/abs/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49) |
