@@ -19,12 +19,12 @@ To catch up with the latest research progress, this repository will be actively 
 - [Papers](#papers)
   - [Perspectives / Methods](#perspectives)
   - [Reviews](#reviews)
-  - [Application](#application)
-  - [Critical Perspectives](#critical-perspective)
+  - [Application](#applications)
+  - [Critical Perspectives](#critical-perspectives)
   
 - [Tables](#tables)
-  - [LLMs as subjects](#LLM-as-subjects)
-  - [Objections to LLMs as subjects](#objection)
+  - [LLMs as subjects](#llms-as-proxies-for-humans)
+  - [Objections to LLMs as subjects](#objections-to-llms-as-subjects)
 
 
 --- 
