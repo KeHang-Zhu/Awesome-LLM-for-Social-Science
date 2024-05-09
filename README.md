@@ -53,7 +53,7 @@ To catch up with the latest research progress, this repository will be actively 
 - Amirova, A., Fteropoulli, T., Ahmed, N., Cowie, M. R., & Leibo, J. Z. (2024). Framework-based qualitative analysis of free responses of Large Language Models: Algorithmic fidelity. Plos one, 19(3), e0300024. [[Link to PDF]](https://arxiv.org/abs/2309.06364)
 - Kim, J., & Lee, B. (2023). Ai-augmented surveys: Leveraging large language models for opinion prediction in nationally representative surveys. arXiv preprint arXiv:2305.09620. [[Link to PDF]](https://arxiv.org/pdf/2305.09620.pdf)
 - Kozlowski, A. C., Kwon, H., & Evans, J. A. In Silico Sociology: Forecasting COVID-19 Polarization with Large Language Models. [[Link to PDF]](https://files.osf.io/v1/resources/7dfbc/providers/osfstorage/662a6df4c5851a1b74f66f15?action=download&direct&version=3)
-Simmons, G., & Savinov, V. (2024). Assessing Generalization for Subpopulation Representative Modeling via In-Context Learning. arXiv preprint arXiv:2402.07368. [[Link to PDF]](https://arxiv.org/pdf/2402.07368)
+- Simmons, G., & Savinov, V. (2024). Assessing Generalization for Subpopulation Representative Modeling via In-Context Learning. arXiv preprint arXiv:2402.07368. [[Link to PDF]](https://arxiv.org/pdf/2402.07368)
 
 **Construct Evaluation**
 
