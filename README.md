@@ -17,7 +17,7 @@ To catch up with the latest research progress, this repository will be actively 
 ## Contents
 
 - [Papers](#papers)
-  - [Perspectives / Methods](#perspectives)
+  - [Methods](#methods)
   - [Reviews](#reviews)
   - [Application](#applications)
   - [Critical Perspectives](#critical-perspectives)
@@ -31,7 +31,7 @@ To catch up with the latest research progress, this repository will be actively 
 
 # Papers 
 
-## Perspectives
+## Methods
 - Horton, J. J. (2023). Large language models as simulated economic agents: What can we learn from homo silicus? (No. w31122). National Bureau of Economic Research. [[Link to PDF]](https://arxiv.org/abs/2301.07543)
 - Manning, B. S., Zhu, K., & Horton, J. J. (2024). Automated Social Science: Language Models as Scientist and Subjects (No. w32381). National Bureau of Economic Research. [[Link to PDF]](https://arxiv.org/abs/2404.11794)
 - Demszky, D., Yang, D., Yeager, D. S., Bryan, C. J., Clapper, M., Chandhok, S., ... & Pennebaker, J. W. (2023). Using large language models in psychology. Nature Reviews Psychology, 2(11), 688-701. [[Link to PDF]](https://www.nature.com/articles/s44159-023-00241-5.epdf)
